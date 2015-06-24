@@ -24,4 +24,5 @@ $(document).ready(function(){
     ctx.strokeStyle="black";
     ctx.strokeRect(0,0,w,h);
   }
+  paint();
 });
